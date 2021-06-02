@@ -1,0 +1,12 @@
+Prof_ID ,Professor Name,City_ID,School_ID,Years_Worked,Tenure,Dept
+1,Brian Smith,1,SEAS,6,TRUE,SYS
+2,Aaron Bloomfield,2,SEAS,1,FALSE,CS
+3,Maya Pittman,13,ARCH,4,TRUE,ARCH
+4,Juan Markot,1,SEAS,2,TRUE,CS
+5,Reed Bailey,5,SEAS,4,FALSE,SYS
+6,Rose Bud,7,NUR,4,FALSE,KINE
+7,Reem Doryab,8,SEAS,1,TRUE,SYS
+8,Slim Teach,2,LAW,6,TRUE,LAW
+9,Lil Prof,2,COM,10,FALSE,COM
+10,Swaggy Prof,10,NUR,3,TRUE,KINE
+11,Dennis Finestein,2,ARCH,5,FALSE,ARCH
