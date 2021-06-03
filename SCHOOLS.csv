@@ -1,4 +1,4 @@
-school_ID,name,size ,year_founded,dean_chair,num_majors
+school_id,name,size ,year_founded,dean_chair,num_majors
 SEAS,School of Engineering and Applied Science,3589,1901,Rodil ,9
 CAS,College of Arts and Sciences ,7301,1872,Alvarado ,152
 LAW,Law School ,832,1821,Yashtz ,4

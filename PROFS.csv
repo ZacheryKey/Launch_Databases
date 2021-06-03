@@ -1,4 +1,4 @@
-Prof_ID ,Professor Name,City_ID,School_ID,Years_Worked,Tenure,Dept
+prof_id,prof_name,city_id,school_id,years_worked,tenure,dept
 1,Brian Smith,1,SEAS,6,TRUE,SYS
 2,Aaron Bloomfield,2,SEAS,1,FALSE,CS
 3,Maya Pittman,13,ARCH,4,TRUE,ARCH

@@ -1,4 +1,4 @@
-COURSE ID ,SCHOOL_ID,DEPT ,CREDITS,PROF_ID
+course_id,school_id,dept,credits,prof_id
 SYS 2001,SEAS,SYS,3,1
 CS 2150,SEAS,CS,3,2
 ENWR 1000,CAS,ENWR,3,3
